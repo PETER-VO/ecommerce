@@ -1,7 +1,16 @@
 body {
   margin: 0;
   font-family: 'Open Sans Condensed', sans-serif;
+  padding: 20px 80px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+*{
+  box-sizing: border-box;
+}
